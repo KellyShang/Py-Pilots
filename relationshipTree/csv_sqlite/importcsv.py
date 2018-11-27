@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Create By: Kelly Shang - 商轲
+# Create By: Kelly Shang
 # Create Date: Apr. 2017
 # Purpose: load data from csv to list
 
