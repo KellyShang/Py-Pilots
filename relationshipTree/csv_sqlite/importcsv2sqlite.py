@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Create By: Kelly Shang - 商轲
+# Create By: Kelly Shang
 # Create Date: Apr. 2017
 # Purpose: import data in the list which loaded from csv to sqlite database
 
